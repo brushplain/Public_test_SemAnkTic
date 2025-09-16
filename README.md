@@ -4,7 +4,7 @@
 
 - Help find relavent anki cards to study
 
-# Does it is search?
+# How does it search?
 
 - it uses a embeds, reranking, and then deepseek-v3
 
