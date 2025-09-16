@@ -1,0 +1,23 @@
+{
+    "myy_hdf5_location": {
+        "h5_file": "/Users/haroon/Production_embeds/Active_Qwen/flashcard_embeddings.h5"
+    },
+    "myy_settings": {
+        "top_n_vectors_from_dataframe": 500,
+        "in_prompt_number": 15,
+        "num_wanted_back_from_cohere": 200,
+        "personal_LLM_prompt": "You are a study assistant selecting flashcards for medical students and doctors in training learning medicine. Rank up to {in_prompt_number} cards that are the most relevant to the query topic in order of relevance and educational value. If there are less than {in_prompt_number} relevant, then only return those that are relevant. Avoid redundancy by selecting cards that address different aspects of the query topic.\n\n## Output Format:\n\n- Return the full text of the selected flashcards ranked in order of relevance and eductional value, each preceded by its `[nid:...]`. Use \"---\" to separate flashcards. Highlight in a way that makes the main idea readable in a glance by using using inline code blocks. \n\n### Example output:\n\n**Cards:**\n1. [nid:1710184327812] The `most common cause` of foodborne illness is `norovirus`.\n---\n2. [nid:1517186884384] `Pneumocystis jiroveci pneumonia` is classically described as having `symmetrical bilateral perihilar ground-glass opacities` on chest radiographs."
+    },
+    "embedding_settings": {
+        "model": "Qwen/Qwen3-Embedding-8B",
+        "use_instruction": true,
+        "instruction": "You are in the expert medical domain. When possible, encode medical conditions/concepts as both in expanded and abbreviation forms."
+    },
+    "display_settings": {
+        "show_context_window": false,
+        "show_similarity_pattern": false
+    }
+}
+
+
+
