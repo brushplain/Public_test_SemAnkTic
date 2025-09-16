@@ -19,3 +19,6 @@
 ## Is the program that made the HDF5 file open source?
 - Yes! But you need an API key to computer the embeds
 
+# Which file is the entry point for this program?
+
+`interface.py`
