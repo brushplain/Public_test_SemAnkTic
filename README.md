@@ -22,3 +22,10 @@
 # Which file is the entry point for this program?
 
 `interface.py`
+
+# What is the minimum I need to make this program work?
+
+1. An HDF5 file
+2. A Deepseek-v3 API key
+3. A Cohere 3.5 rerank API key
+4. A Nebious API key
