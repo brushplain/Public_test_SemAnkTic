@@ -1,8 +1,14 @@
 
+# Who is the intended audience?
+- Medical students using the Anking deck
+- Radiology residents using the Ankore deck
+- Anesthesia residents using the Ankisthesia deck
+
 
 # What does this program does do?
 
 - Help find relavent anki cards to study
+
 
 # How does it search?
 
