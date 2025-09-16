@@ -1,0 +1,10 @@
+asciichartpy==1.5.25
+h5py==3.14.0
+loguru==0.7.3
+numpy==2.3.0
+openai==1.84.0
+pandas==2.3.0
+python-dotenv==1.1.0
+Requests==2.32.3
+rich==14.0.0
+huggingface_hub>=0.20.0
