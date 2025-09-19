@@ -50,7 +50,7 @@
 
 <img width="568" height="927" alt="Screenshot 2025-09-19 at 9 06 04 AM" src="https://github.com/user-attachments/assets/165f9648-3320-4bad-ae6e-81d2c109652c" />
 
-## Notes automatically open in Anki
+## Results automatically open in Anki
 
 <img width="1105" height="654" alt="Screenshot 2025-09-19 at 9 09 44 AM" src="https://github.com/user-attachments/assets/f9098795-c579-4dd0-9c8c-949dab363942" />
 
