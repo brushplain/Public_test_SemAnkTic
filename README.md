@@ -21,7 +21,7 @@
 
 ## Results automatically open in Anki 
 
-### Needs the `Sort on NID` and `AnkiConnect` addon to automatically open and populate Anki in the order displayed from the `SemAnkTic` program
+- Needs the  `Sort on NID` and `AnkiConnect` addon to automatically open and populate Anki in the order displayed from the SemAnkTic program
 
 
 <img width="1299" height="736" alt="Screenshot 2025-09-19 at 9 34 45 AM" src="https://github.com/user-attachments/assets/dba9dda0-92e2-407f-9f43-75dba36e257d" />
@@ -59,9 +59,9 @@
 # What is the minimum I need to make this program work?
 
 1. An HDF5 file
-2. A Deepseek-v3 API key
-3. A Cohere 3.5 rerank API key
-4. A Nebious API key
+2. Deepseek-v3 API key
+3. Cohere 3.5 rerank API key
+4. Nebious API key
 
 
 
