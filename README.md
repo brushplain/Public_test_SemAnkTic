@@ -1,8 +1,8 @@
 
 # ⚠️ Note ⚠️
 
-- I still to upload the program that makes the required `.h5` file that this program reads, since it does not directly read the Anki SQL file
-- If you are urgently want to run this program, reach out to me at `marinefog3@gmail.com` and I give you the rest of the assets
+- I still need to upload the program that makes the required `.h5` file that this program reads, since it does not directly read the Anki SQL file
+- If you are urgently want to run this program, reach out to me at `marinefog3@gmail.com` and I can give you the rest of the assets
 
 # Who is the intended audience?
 - Medical students using the Anking deck
@@ -28,7 +28,7 @@
 - by scrapping a SQL database to produce a CSV, then producing embeds for the CSV, then packaging everything in an HDF5 file that contains the card content, Numerical identifier (NID), and embeds
 
 ## Is the program that made the HDF5 file open source?
-- Yes! But you need an API key to computer the embeds
+- Yes! But you need an API key to compute the embeds
 
 # Which file is the entry point for this program?
 
