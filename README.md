@@ -45,13 +45,19 @@
 
 ## SemAnkTic Program
 
-<img width="563" height="537" alt="Screenshot 2025-09-19 at 9 03 03 AM" src="https://github.com/user-attachments/assets/43ffbefd-8be3-4c9a-97b0-546b9014b70b" />
 
 
-<img width="568" height="927" alt="Screenshot 2025-09-19 at 9 06 04 AM" src="https://github.com/user-attachments/assets/165f9648-3320-4bad-ae6e-81d2c109652c" />
 
-## Results automatically open in Anki
 
-<img width="1105" height="654" alt="Screenshot 2025-09-19 at 9 09 44 AM" src="https://github.com/user-attachments/assets/f9098795-c579-4dd0-9c8c-949dab363942" />
+<img width="520" height="320" alt="Screenshot 2025-09-19 at 9 30 30 AM" src="https://github.com/user-attachments/assets/8660165e-2998-4b5d-883c-1c038cae0feb" />
 
+
+<img width="761" height="773" alt="Screenshot 2025-09-19 at 9 29 16 AM" src="https://github.com/user-attachments/assets/7e68aa90-d15e-448e-9cd5-d8c21121e1d0" />
+
+## Results automatically open in Anki 
+
+### Needs the `Sort on NID` and `AnkiConnect` addon to automatically open and populate Anki in the order displayed from the `SemAnkTic` program
+
+
+<img width="1299" height="736" alt="Screenshot 2025-09-19 at 9 34 45 AM" src="https://github.com/user-attachments/assets/dba9dda0-92e2-407f-9f43-75dba36e257d" />
 
