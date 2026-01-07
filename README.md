@@ -1,8 +1,8 @@
 
 # ⚠️ Note ⚠️
 
-- I still need to upload the program that makes the required `.h5` file that this program reads, since it does not directly read the Anki SQL file
-- If you are urgently want to run this program, reach out to me at `marinefog3@gmail.com` and I can give you the rest of the assets
+- This program requires `.h5` file to read, since it does not directly read the Anki SQL file
+- Reach out to me at `marinefog3@gmail.com` and I can give you the rest of the assets
 
 
 
