@@ -1,8 +1,7 @@
 
 # ⚠️ Note ⚠️
 
-- This program requires `.h5` file to read, since it does not directly read the Anki SQL file
-- Reach out to me at `marinefog3@gmail.com` and I can give you the rest of the assets
+- Reach out to me at `marinefog3@gmail.com` and I can give you the remaining assets, including the code to package the vector representation (embeds)
 
 
 
@@ -34,7 +33,7 @@
 
 # What does this program does do?
 
-- Help find relavent anki cards to study
+- Find relavent anki cards to study
 
 
 # How does it search?
